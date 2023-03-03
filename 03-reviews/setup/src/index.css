@@ -198,6 +198,7 @@ main {
   transform: translateY(25%);
   background: var(--clr-primary-5);
   color: var(--clr-white);
+  z-index: 1;
 }
 .img-container::before {
   content: '';

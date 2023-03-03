@@ -233,10 +233,10 @@ Jobs
     margin-bottom: 1rem;
   }
   .active-btn {
-    box-shadow: -2px 0 var(--clr-primary-5);
+    box-shadow: -3px 0 25px 3px var(--clr-primary-5);
   }
   .job-btn:hover {
-    box-shadow: -2px 0 var(--clr-primary-5);
+    box-shadow: -3px 0 25px 1px var(--clr-primary-5);
   }
 }
 .btn {
